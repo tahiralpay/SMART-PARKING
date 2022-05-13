@@ -1,4 +1,4 @@
-# SMART-PARKING
+# Smart-Parking
 ![Circuid Diagram](https://user-images.githubusercontent.com/75435070/168221134-40d2ed5b-c4e6-4625-9166-f8cd9b9d73a2.png)
 
 ## LINK PINS        
